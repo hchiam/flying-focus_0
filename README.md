@@ -1,5 +1,7 @@
 # flying focus ring
 
+[Live demo](https://codepen.io/hchiam/pen/MWKKxdW)
+
 ```html
 <script
   src="https://cdn.jsdelivr.net/gh/hchiam/flying-focus@master/flying-focus.js"
