@@ -1,4 +1,4 @@
-# flying-focus
+# flying focus ring
 
 ```html
 <script
