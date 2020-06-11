@@ -1,5 +1,7 @@
 # flying focus ring
 
+This project has moved! See updates here: <https://github.com/hchiam/flying-focus>
+
 [Live demo](https://codepen.io/hchiam/pen/MWKKxdW)
 
 [Example usage](https://github.com/hchiam/flying-focus/blob/master/example-usage.html)
